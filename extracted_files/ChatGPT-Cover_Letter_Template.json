@@ -1,0 +1,177 @@
+{
+    "id": "96e78dfe-c9e1-4172-8424-75915cb162b4",
+    "title": "Cover Letter Template",
+    "create_time": 1724844600.455164,
+    "update_time": 1724844662.624908,
+    "mapping": {
+        "206af940-e1e3-4259-b11f-388c2b3de4a2": {
+            "id": "206af940-e1e3-4259-b11f-388c2b3de4a2",
+            "message": {
+                "id": "206af940-e1e3-4259-b11f-388c2b3de4a2",
+                "author": {
+                    "role": "system",
+                    "name": null,
+                    "metadata": {}
+                },
+                "create_time": null,
+                "update_time": null,
+                "content": {
+                    "content_type": "text",
+                    "parts": [
+                        ""
+                    ]
+                },
+                "status": "finished_successfully",
+                "end_turn": true,
+                "weight": 0,
+                "metadata": {
+                    "is_visually_hidden_from_conversation": true
+                },
+                "recipient": "all",
+                "channel": null
+            },
+            "parent": "aaa123b8-23c9-4488-a7f8-defe8519b85f",
+            "children": [
+                "dfa504b8-2842-462b-bfdd-522ccae72292"
+            ]
+        },
+        "aaa123b8-23c9-4488-a7f8-defe8519b85f": {
+            "id": "aaa123b8-23c9-4488-a7f8-defe8519b85f",
+            "message": null,
+            "parent": null,
+            "children": [
+                "206af940-e1e3-4259-b11f-388c2b3de4a2"
+            ]
+        },
+        "dfa504b8-2842-462b-bfdd-522ccae72292": {
+            "id": "dfa504b8-2842-462b-bfdd-522ccae72292",
+            "message": {
+                "id": "dfa504b8-2842-462b-bfdd-522ccae72292",
+                "author": {
+                    "role": "system",
+                    "name": null,
+                    "metadata": {}
+                },
+                "create_time": null,
+                "update_time": null,
+                "content": {
+                    "content_type": "text",
+                    "parts": [
+                        ""
+                    ]
+                },
+                "status": "finished_successfully",
+                "end_turn": null,
+                "weight": 1,
+                "metadata": {
+                    "attachments": [],
+                    "is_visually_hidden_from_conversation": true
+                },
+                "recipient": "all",
+                "channel": null
+            },
+            "parent": "206af940-e1e3-4259-b11f-388c2b3de4a2",
+            "children": [
+                "aaa2c3b2-74bf-4fcc-9458-85ee1cd8d320"
+            ]
+        },
+        "aaa2c3b2-74bf-4fcc-9458-85ee1cd8d320": {
+            "id": "aaa2c3b2-74bf-4fcc-9458-85ee1cd8d320",
+            "message": {
+                "id": "aaa2c3b2-74bf-4fcc-9458-85ee1cd8d320",
+                "author": {
+                    "role": "user",
+                    "name": null,
+                    "metadata": {}
+                },
+                "create_time": 1724844600.467126,
+                "update_time": null,
+                "content": {
+                    "content_type": "text",
+                    "parts": [
+                        "Write a cover letter for applying for a job"
+                    ]
+                },
+                "status": "finished_successfully",
+                "end_turn": null,
+                "weight": 1,
+                "metadata": {
+                    "request_id": "8ba3f77bcad69074-KHI",
+                    "message_source": null,
+                    "timestamp_": "absolute",
+                    "message_type": null
+                },
+                "recipient": "all",
+                "channel": null
+            },
+            "parent": "dfa504b8-2842-462b-bfdd-522ccae72292",
+            "children": [
+                "7256c54e-739a-499d-bae7-7138ea8f3f90"
+            ]
+        },
+        "7256c54e-739a-499d-bae7-7138ea8f3f90": {
+            "id": "7256c54e-739a-499d-bae7-7138ea8f3f90",
+            "message": {
+                "id": "7256c54e-739a-499d-bae7-7138ea8f3f90",
+                "author": {
+                    "role": "assistant",
+                    "name": null,
+                    "metadata": {}
+                },
+                "create_time": 1724844660.664482,
+                "update_time": null,
+                "content": {
+                    "content_type": "text",
+                    "parts": [
+                        "Certainly! Below is a general template for a cover letter. Feel free to customize it to fit your specific situation:\n\n---\n\n[Your Name]  \n[Your Address]  \n[City, State, ZIP Code]  \n[Your Email Address]  \n[Your Phone Number]  \n[Date]\n\n[Employer's Name]  \n[Company Name]  \n[Company Address]  \n[City, State, ZIP Code]\n\nDear [Employer's Name],\n\nI am writing to express my interest in the [Job Title] position at [Company Name] as advertised on [Where You Found the Job Posting]. With my [Number of Years] years of experience in [Your Field or Relevant Skills], I am excited about the opportunity to contribute to your team and help [Company Name] continue its impressive trajectory of success.\n\nIn my current/previous role as a [Your Current/Previous Job Title] at [Your Current/Previous Company], I have honed my skills in [Mention Key Skills Relevant to the Job]. I have successfully [Briefly Mention a Major Achievement or Responsibility], which has equipped me with the ability to [Highlight a Skill or Quality That Is Essential for the Job You’re Applying For]. I am particularly drawn to this opportunity because of [Mention Something Specific About the Company or Role That Appeals to You].\n\nWhat sets me apart is my [Unique Quality or Experience], and I am confident that my ability to [Another Key Skill or Strength] will allow me to make a meaningful contribution to your team. I am particularly impressed by [Company Name]’s commitment to [Mention Something You Admire About the Company], and I am eager to be part of such an innovative and forward-thinking environment.\n\nI would welcome the chance to further discuss how my background, skills, and enthusiasms align with the needs of your team. I am available at your convenience for an interview and can be reached at [Your Phone Number] or [Your Email Address].\n\nThank you for considering my application. I look forward to the opportunity to contribute to the continued success of [Company Name].\n\nWarm regards,  \n[Your Name]\n\n---\n\n### Tips for Customization:\n1. **Personalization**: Address the letter to a specific person if possible. Research the hiring manager's name to make the letter more personal.\n2. **Specific Achievements**: Quantify your achievements where possible. For example, \"increased sales by 20%\" or \"managed a team of 10.\"\n3. **Show Enthusiasm**: Convey your excitement about the role and the company. Employers want to hire people who are genuinely interested in their work.\n4. **Tailor to the Job**: Customize the letter to the job description. Highlight the skills and experiences that are most relevant to the position.\n5. **Professional Tone**: Maintain a balance between professionalism and warmth in your tone.\n\nGood luck with your application!"
+                    ]
+                },
+                "status": "finished_successfully",
+                "end_turn": true,
+                "weight": 1,
+                "metadata": {
+                    "citations": [],
+                    "content_references": [],
+                    "gizmo_id": "g-daPRDI1yk",
+                    "finish_details": {
+                        "type": "stop",
+                        "stop_tokens": [
+                            200002
+                        ]
+                    },
+                    "is_complete": true,
+                    "message_type": null,
+                    "model_slug": "gpt-4o",
+                    "default_model_slug": "auto",
+                    "pad": "AAAAAA",
+                    "parent_id": "aaa2c3b2-74bf-4fcc-9458-85ee1cd8d320",
+                    "request_id": "8ba3f77bcad69074-KHI",
+                    "timestamp_": "absolute",
+                    "model_switcher_deny": [
+                        {
+                            "slug": "text-davinci-002-render-sha",
+                            "context": "regenerate",
+                            "reason": "unsupported_gizmo",
+                            "description": "This GPT is not supported"
+                        }
+                    ]
+                },
+                "recipient": "all",
+                "channel": null
+            },
+            "parent": "aaa2c3b2-74bf-4fcc-9458-85ee1cd8d320",
+            "children": []
+        }
+    },
+    "moderation_results": [],
+    "current_node": "7256c54e-739a-499d-bae7-7138ea8f3f90",
+    "plugin_ids": null,
+    "conversation_id": "96e78dfe-c9e1-4172-8424-75915cb162b4",
+    "conversation_template_id": "g-daPRDI1yk",
+    "gizmo_id": "g-daPRDI1yk",
+    "is_archived": false,
+    "safe_urls": [],
+    "default_model_slug": "auto",
+    "conversation_origin": null,
+    "voice": null
+}
